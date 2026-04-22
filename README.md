@@ -2,7 +2,7 @@
 
 Ce dépôt regroupe mes notes et commandes essentielles pour l'administration système Linux.
 
-## 📖 Contenu
+## Contenu
 
 Les commandes sont répertoriées dans les fichiers suivants :
 
